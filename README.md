@@ -1,4 +1,4 @@
-# Example to SweetAlert for blocuss.com (Material Design for Bootstrap)   
+#  blocuss.com is a collection of professionally designed, ready to use, fully responsive HTML and CSS library which you can buld any web site project very easily. Get started by checking out our components and build responsive e-commerce projects on the web. You can develop online shops, marketplaces and booking websites with ready-made HTML, CSS, and JS.
 
 A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
 
