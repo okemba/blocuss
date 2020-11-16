@@ -1,4 +1,3 @@
-# Example to SweetAlert for blocuss.com (Material Design for Bootstrap)   
 
 A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
 
